@@ -1,5 +1,5 @@
 # Aivesa自动签到/askopenai.cn
-Aivesa自动多账号自动化签到程序
+Aivesa多账号自动化签到程序
 
 ## 功能
 该程序是一个使用Selenium库编写的自动化程序，用于给Aivesa内测版进行签到操作。
