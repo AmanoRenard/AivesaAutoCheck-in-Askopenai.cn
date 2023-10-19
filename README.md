@@ -4,7 +4,7 @@ Aivesa多账号自动化签到程序
 ## 功能
 该程序是一个使用Selenium库编写的自动化程序，用于给Aivesa内测版进行签到操作。
 
-![image-20231020014626117](D:\Code\Selenium\Aivesa-----askopenai.cn\assets\image-20231020014626117.png)
+![image](https://github.com/AmanoRenard/AivesaAutoCheck-in-Askopenai.cn/assets/92380936/e823603e-534b-4e55-a0c2-62f91c3e408f)
 
 ## 注意事项
 在使用该程序之前，请注意以下事项：
@@ -22,7 +22,7 @@ Aivesa多账号自动化签到程序
 
 ## 使用截图
 
-![image-20231020015530153](D:\Code\Selenium\Aivesa-----askopenai.cn\assets\image-20231020015530153.png)
+![image](https://github.com/AmanoRenard/AivesaAutoCheck-in-Askopenai.cn/assets/92380936/818dbf8c-8a31-45fa-81bf-587f2fba2bcf)
 
 ## 联系方式
 
